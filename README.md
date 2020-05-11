@@ -1,1 +1,0 @@
-# minamiuruka.github.io
