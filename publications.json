@@ -1,0 +1,48 @@
+[
+	{
+		"title": "How Easy it is to Know How: An Upper Bound for the Satisfiability Problem",
+		"authors": ["Carlos Areces", "Valentín Cassano", "Pablo F. Castro", "Raul Fervari", "Andrés R. Saravia"],
+		"place": "JELIA 2023"
+	},
+	{
+		"title": "Uncertainty-Based Knowing How Logic",
+		"authors": ["Carlos Areces", "Raul Fervari", "Andrés R. Saravia", "Fernando R. Velázquez-Quesada"],
+		"place": "JLC 2023"
+	},
+	{
+		"title": "A Deontic Logic of Knowingly Complying",
+		"authors": ["Carlos Areces", "Valentín Cassano", "Pablo F. Castro", "Raul Fervari", "Andrés R. Saravia"],
+		"place": "AAMAS '23: Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, pages 364–372, 2023",
+		"link": "https://dl.acm.org/doi/proceedings/10.5555/3545946",
+		"mirror": "works/2023 AAMAS - A Deontic Logic of Knowingly Complying.pdf",
+		"talk": "talks/2023 AAMAS - (talk) A Deontic Logic of Knowingly Complying.pdf",
+		"poster": "posters/2023 AAMAS - (poster) A Deontic Logic of Knowingly Complying.pdf"
+	},
+	{
+		"title": "First Steps in Updating Knowing How",
+		"authors": ["Carlos Areces", "Raul Fervari", "Andrés R. Saravia", "Fernando R. Velázquez-Quesada"],
+		"place": "Dynamic Logic. New Trends and Applications, pages 1-16, 2022",
+		"link": "https://link.springer.com/book/10.1007/978-3-031-26622-5",
+		"mirror": "works/2022 DaLí - First Steps in Updating Knowing How.pdf",
+		"talk": "talks/2022 DaLí - (talk) First Steps in Updating Knowing How.pdf",
+		"poster": ""
+	},
+	{
+		"title": "Uncertainty-Based Semantics for Multi-Agent Knowing How Logics",
+		"authors": ["Carlos Areces", "Raul Fervari", "Andrés R. Saravia", "Fernando R. Velázquez-Quesada"],
+		"place": "Proceedings of the Eighteenth Conference on Theoretical Aspects of Rationality and Knowledge, TARK XVIII, pages 23-38, 2021",
+		"link": "http://eptcs.web.cse.unsw.edu.au/content.cgi?TARK2021",
+		"mirror": "works/2021 TARK - Uncertainty-Based Semantics for Multi-Agent Knowing How Logics.pdf",
+		"talk": "talks/2021 TARK - (talk) Uncertainty-Based Semantics for Multi-Agent Knowing How Logics.pdf",
+		"poster": ""
+	},
+	{
+		"title": "Tableau calculi for elementary formulae in Separation Logics",
+		"authors": ["Andrés R. Saravia"],
+		"place": "Master Computer Science thesis, FaMAF-UNC, 2020",
+		"link": "https://rdu.unc.edu.ar/handle/11086/15302",
+		"mirror": "works/2020 UNC - Cálculo de tableaux para fórmulas elementales en lógicas de separación.pdf",
+		"talk": "talks/2020 UNC - (talk) Cálculo de tableaux para fórmulas elementales en lógicas de separación.pdf",
+		"poster": ""
+	}
+]
