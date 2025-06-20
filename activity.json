@@ -10,29 +10,84 @@
 		"activity": ""
 	},
 	{
-		"years": "",
-		"language": "",
-		"activity": ""
+		"years": "2025",
+		"language": "ES",
+		"activity": "Presentación de trabajo en el XXII Congreso Regional de Física Estadística y Aplicaciones a la Materia Condensada (TREFEMAC XXII)"
 	},
 	{
-		"years": "",
-		"language": "",
-		"activity": ""
+		"years": "2025",
+		"language": "ES",
+		"activity": "Presentación de trabajo en el X Congreso de Matemática Aplicada, Computacional e Industrial (MACI X), Universidad Tecnológica Nacional Facultad Regional Córdoba"
 	},
 	{
-		"years": "",
-		"language": "",
-		"activity": ""
+		"years": "2025",
+		"language": "ES",
+		"activity": "Participación en el VI taller de Matemática en la Industria (TAMI VI), FaMAF, Universidad Nacional de Córdoba"
 	},
 	{
-		"years": "",
-		"language": "",
-		"activity": ""
+		"years": "2025",
+		"language": "EN",
+		"activity": "Courses of Full Stack at Coderhouse (Javascript, Web Development, Backend, React JS)"
+	},
+	{
+		"years": "2020-2025",
+		"language": "ES",
+		"activity": "'Beca Interna Doctoral' otorgada por CONICET para financiar proyectos de doctorado a estudiantes graduados con el título 'Lógicas Epistémicas con Estrategias' con el Dr. Raúl Fervari (FaMAF-UNC, CONICET) como director"
+	},
+	{
+		"years": "2024",
+		"language": "EN",
+		"activity": "Course 'Blender 3D' at Coderhouse"
+	},
+	{
+		"years": "2020-2024",
+		"language": "EN/ES",
+		"activity": "PhD degree in Computer Science / Doctorado en Ciencias de la Computación, FaMAF, Universidad Nacional de Córdoba (Dr. Raúl Fervari)"
+	},
+	{
+		"years": "2024",
+		"language": "EN/ES",
+		"activity": "Organizer at the Twelfth Argentine Workshop on Fundamentals for the Automatic Analysis and Construction of Software / Organizador en el Doceavo Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software (FACAS), Universidad Nacional de Río Cuarto, Córdoba, Argentina"
+	},
+	{
+		"years": "2024",
+		"language": "EN",
+		"activity": "Presentation of work at the International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications (ReacTS), Aveiro, Portugal"
+	},
+	{
+		"years": "2024",
+		"language": "EN/ES",
+		"activity": "Participation at Eleventh Argentine Workshop on Fundamentals for the Automatic Analysis and Construction of Software / Participación en el Onceavo Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software (FACAS), Universidad Nacional de Río Cuarto, Córdoba, Argentina"
+	},
+	{
+		"years": "2023",
+		"language": "EN/ES",
+		"activity": "2nd Seminar for PhD Computer Science students / Segundo seminario para estudiantes de doctorado, FaMAF, Universidad Nacional Córdoba, Argentina"
+	},
+	{
+		"years": "2023",
+		"language": "EN",
+		"activity": "Presentation of work at the International Conference on Autonomous Agents and Multiagent Systems (AAMAS), London, United Kingdom"
+	},
+	{
+		"years": "2023",
+		"language": "EN",
+		"activity": "Talk at São Paulo School of Advanced Science on Contemporary Logic, Rationality, and Information (SPLogIC), Universidade Estadual de Campinas, São Paulo"
+	},
+	{
+		"years": "2020-2022",
+		"language": "EN/ES",
+		"activity": "University Technician in Applied Mathematics / Técnico Universitario en Matemática Aplicada, FaMAF, Universidad Nacional de Córdoba (GPA: 9.44/10)"
+	},
+	{
+		"years": "2022",
+		"language": "ES",
+		"activity": "Trabajo como Profesor Ayudante A en la materia Algoritmos y Estructuras de Datos I, FaMAF, Universidad Nacional de Córdoba"
 	},
 	{
 		"years": "2022",
 		"language": "EN",
-		"activity": "Presentation at DaLí Workshop, University of Lisbon, Portugal (virtual)"
+		"activity": "Presentation of work at DaLí Workshop, University of Lisbon, Portugal (virtual)"
 	},
 	{
 		"years": "2022",
@@ -42,22 +97,22 @@
 	{
 		"years": "2022",
 		"language": "EN/ES",
-		"activity": "Talk at the Ninth Argentine Workshop on Fundamentals for the Automatic Analysis and Construction of Software / Noveno Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software (FACAS), La Falda, Córdoba, Argentina"
+		"activity": "Talk at the Ninth Argentine Workshop on Fundamentals for the Automatic Analysis and Construction of Software / Charla en el Noveno Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software (FACAS), La Falda, Córdoba, Argentina"
 	},
 	{
 		"years": "2021",
 		"language": "EN",
-		"activity": "Participation at the European Summer School In Logic, Language And Information"
+		"activity": "Participation at the European Summer School In Logic, Language And Information (ESSLLI)"
 	},
 	{
 		"years": "2021",
 		"language": "EN/ES",
-		"activity": "Seminar for PhD Computer Science students / Seminario para estudiantes de doctorado, FaMAF, Universidad Nacional Córdoba, Argentina"
+		"activity": "1st seminar for PhD Computer Science students / Primer seminario para estudiantes de doctorado, FaMAF, Universidad Nacional Córdoba, Argentina"
 	},
 	{
 		"years": "2021",
 		"language": "EN",
-		"activity": "Participation and presentation of work at the Eighteenth Conference on Theoretical Aspects of Rationality and Knowledge (TARK XVIII), Tsinghua University, China (virtual)"
+		"activity": "Presentation of work at the Eighteenth Conference on Theoretical Aspects of Rationality and Knowledge (TARK XVIII), Tsinghua University, China (virtual)"
 	},
 	{
 		"years": "2021",
@@ -77,12 +132,12 @@
 	{
 		"years": "2019-2020",
 		"language": "ES",
-		"activity": "'Becas de Estímulo a las Vocaciones Científicas' otorgada por Consejo Interuniversitario Nacional (CIN) dada a estudiantes de grado que quieran iniciarse en investigación científica bajo el título 'Inferencia para Lógicas de Separación' con el Dr. Raúl Fervari (FaMAF-UNC) como director"
+		"activity": "'Becas de Estímulo a las Vocaciones Científicas' otorgada por Consejo Interuniversitario Nacional (CIN) dada a estudiantes de grado que quieran iniciarse en investigación científica con el título 'Inferencia para Lógicas de Separación' con el Dr. Raúl Fervari (FaMAF-UNC, CONICET) como director"
 	},
 	{
 		"years": "2015-2020",
 		"language": "ES",
-		"activity": "Becas Académicas otorgada por el Gobierno de la provincia de Córdoba a estudiantes que terminaron la escuela secundaria con los mejores promedios y que quieran estudiar en carreras estratégicas en Informática y Tecnologías de la Información y la Comunicación"
+		"activity": "'Becas Académicas' otorgada por el Gobierno de la provincia de Córdoba a estudiantes que terminaron la escuela secundaria con los mejores promedios y que quieran estudiar en carreras estratégicas en Informática y Tecnologías de la Información y la Comunicación"
 	},
 	{
 		"years": "2020",
@@ -136,7 +191,7 @@
 	{
 		"years": "2015-2017",
 		"language": "EN/ES",
-		"activity": "Undergraduate degree in Computer Analyst / Analista en Computación, FaMAF, Universidad Nacional de Córdoba"
+		"activity": "Undergraduate degree in Computer Analyst / Analista en Computación, FaMAF, Universidad Nacional de Córdoba (GPA: 9.61/10)"
 	},
 	{
 		"years": "2017",
