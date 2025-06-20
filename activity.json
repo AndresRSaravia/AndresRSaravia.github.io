@@ -92,7 +92,7 @@
 	{
 		"years": "2022",
 		"language": "ES",
-		"activity": "Curso 'Álgebra Universal' dictado por el Dr. Miguel A. C. Campercholi (UNC, CONICET) y la Dra. Mariana Badano (UNC, CONICET)"
+		"activity": "Curso 'Álgebra Universal' dictado por el Dr. Miguel A. C. Campercholi (UNC, CONICET) y la Dra. Mariana Badano (UNC, CONICET) (10/10)"
 	},
 	{
 		"years": "2022",
@@ -128,6 +128,11 @@
 		"years": "2020",
 		"language": "ES",
 		"activity": "Curso 'Aspectos Modernos de Lógica Computacional' dictado por los doctores Carlos Areces (UNC, CONICET), Raúl Fervari (UNC, CONICET), Valentín Cassano (UNRC, UNC, CONICET), Pablo Castro (UNRC, CONICET) (10/10)"
+	},
+	{
+		"years": "2020",
+		"language": "ES",
+		"activity": "Curso 'Introducción a las técnicas inteligentes de resolución de problemas de planificación, secuenciación y ejecución' dictado por el Instituto Gulich (Aprobado)"
 	},
 	{
 		"years": "2019-2020",
