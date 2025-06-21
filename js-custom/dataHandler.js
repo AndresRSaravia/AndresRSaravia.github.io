@@ -35,7 +35,7 @@ async function renderTalks() {
 	talks.forEach(talk => {
 		const card = document.createElement("div")
 		card.innerHTML = `<ul>
-							<li>(${talk.year}) <em>${talk.title}</em>.
+							<li>[${talk.language}] (${talk.year}) <em>${talk.title}</em>.
 							${talk.link ? `<a href="${talk.link}">[link]</a>` : ""}
 							${talk.file ? `<a href="${talk.file}">[talk]</a>` : ""}
 							${talk.detail ? `<a href="${talk.detail}">[detail]</a>` : ""}

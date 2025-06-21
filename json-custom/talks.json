@@ -1,6 +1,7 @@
 [
 	{
 		"year": "2024",
+		"language": "EN",
 		"title": "A Novel Way of Updating Knowing How",
 		"place": "Aveiro University, Aveiro, Portugal",
 		"file": "works/talks/2024 ReacTS - A Novel Way of Updating Knowing How.pdf",
@@ -8,18 +9,35 @@
 	},
 	{
 		"year": "2024",
+		"language": "EN",
 		"title": "Epistemic logics based on abilities",
 		"place": "Saarland University, Saarbrücken, Germany",
 		"file": "works/talks/2024 Saarland University - Epistemic logics based on abilities.pdf"
 	},
 	{
+		"year": "2024",
+		"language": "ES",
+		"title": "Fermat, Weber y los problemas de localización",
+		"place": "Seminario de Alumnes 2024, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
+		"file": "works/talks/2024 UNC - Fermat, Weber y los problemas de localización.pdf"
+	},
+	{
 		"year": "2023",
+		"language": "ES",
+		"title": "Una lógica deóntica de 'cumplir conscientemente'",
+		"place": "Seminario informal para estudiantes de doctorado, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
+		"file": "works/talks/2023 UNC - Una lógica deóntica de 'cumplir conscientemente' (seminario).pdf"
+	},
+	{
+		"year": "2023",
+		"language": "EN",
 		"title": "Epistemic Logics with Strategies",
 		"place": "University of Bergen, Bergen, Norway",
 		"link": "https://www.uib.no/infomedia/163132/logic-ai-seminar-epistemic-logics-strategies-andrés-r-saravia"
 	},
 	{
 		"year": "2023",
+		"language": "EN",
 		"title": "Epistemic Logics with Strategies",
 		"place": "São Paulo School of Advanced Science on Contemporary Logic, Rationality, and Information, State University of Campinas, Campinas, Brazil",
 		"link": "https://www.cle.unicamp.br/splogic",
@@ -27,6 +45,7 @@
 	},
 	{
 		"year": "2022",
+		"language": "EN",
 		"title": "Strategically knowing: a new framework of modal logics",
 		"place": "Noveno Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software, La Falda, Córdoba, Argentina",
 		"link": "https://sites.google.com/view/facas2022/",
@@ -34,8 +53,9 @@
 	},
 	{
 		"year": "2021",
+		"language": "ES",
 		"title": "Una lógica epistémica para el razonamiento estratégico",
-		"place": "Seminario informal, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
-		"file": "works/talks/2021 Seminario - Una lógica epistémica para el razonamiento estratégico.pdf"
+		"place": "Seminario para estudiantes de doctorado, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
+		"file": "works/talks/2021 UNC - Una lógica epistémica para el razonamiento estratégico (seminario).pdf"
 	}
 ]
