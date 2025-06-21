@@ -1,34 +1,41 @@
 [
 	{
 		"year": "2024",
+		"title": "A Novel Way of Updating Knowing How",
+		"place": "Aveiro University, Aveiro, Portugal",
+		"file": "works/talks/2024 ReacTS - A Novel Way of Updating Knowing How.pdf",
+		"detail": "works/papers/2024 ReacTS - A Novel Way of Updating Knowing How (detail).pdf"
+	},
+	{
+		"year": "2024",
 		"title": "Epistemic logics based on abilities",
-		"place": "Saarland University",
+		"place": "Saarland University, Saarbrücken, Germany",
 		"file": "works/talks/2024 Saarland University - Epistemic logics based on abilities.pdf"
 	},
 	{
 		"year": "2023",
 		"title": "Epistemic Logics with Strategies",
-		"place": "University of Bergen",
+		"place": "University of Bergen, Bergen, Norway",
 		"link": "https://www.uib.no/infomedia/163132/logic-ai-seminar-epistemic-logics-strategies-andrés-r-saravia"
 	},
 	{
 		"year": "2023",
 		"title": "Epistemic Logics with Strategies",
-		"place": "São Paulo School of Advanced Science on Contemporary Logic, Rationality, and Information",
+		"place": "São Paulo School of Advanced Science on Contemporary Logic, Rationality, and Information, State University of Campinas, Campinas, Brazil",
 		"link": "https://www.cle.unicamp.br/splogic",
 		"file": "works/talks/2022 SPLogIC - Epistemic Logics with Strategies.pdf"
 	},
 	{
 		"year": "2022",
 		"title": "Strategically knowing: a new framework of modal logics",
-		"place": "Noveno Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software",
+		"place": "Noveno Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software, La Falda, Córdoba, Argentina",
 		"link": "https://sites.google.com/view/facas2022/",
 		"file": "works/talks/2022 FACAS - Strategically knowing a new framework of modal logics.pdf"
 	},
 	{
 		"year": "2021",
 		"title": "Una lógica epistémica para el razonamiento estratégico",
-		"place": "Seminario informal, FaMAF, Universidad Nacional de Córdoba",
+		"place": "Seminario informal, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
 		"file": "works/talks/2021 Seminario - Una lógica epistémica para el razonamiento estratégico.pdf"
 	}
 ]
