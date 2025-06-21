@@ -1,39 +1,28 @@
 [
 	{
+		"year": "2023",
 		"title": "Epistemic Logics with Strategies",
-		"place": "University of Bergen, 2023",
+		"place": "University of Bergen",
 		"link": "https://www.uib.no/infomedia/163132/logic-ai-seminar-epistemic-logics-strategies-andrés-r-saravia"
 	},
 	{
+		"year": "2023",
 		"title": "Epistemic Logics with Strategies",
-		"place": "São Paulo School of Advanced Science on Contemporary Logic, Rationality, and Information, 2023",
+		"place": "São Paulo School of Advanced Science on Contemporary Logic, Rationality, and Information",
 		"link": "https://www.cle.unicamp.br/splogic",
-		"mirror": "talks/2022 SPLogIC - (talk) Epistemic Logics with Strategies.pdf"
+		"file": "talks/2022 SPLogIC - (talk) Epistemic Logics with Strategies.pdf"
 	},
 	{
+		"year": "2022",
 		"title": "Strategically knowing: a new framework of modal logics",
-		"place": "Noveno Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software, 2022",
+		"place": "Noveno Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software",
 		"link": "https://sites.google.com/view/facas2022/",
-		"mirror": "talks/2022 FACAS - (talk) Strategically knowing a new framework of modal logics.pdf"
+		"file": "talks/2022 FACAS - (talk) Strategically knowing a new framework of modal logics.pdf"
 	},
 	{
+		"year": "2021",
 		"title": "Una lógica epistémica para el razonamiento estratégico",
-		"place": "Seminario informal, FaMAF-UNC, 2021",
-		"mirror": "talks/2021 Seminario - (talk) Una lógica epistémica para el razonamiento estratégico.pdf"
+		"place": "Seminario informal, FaMAF, Universidad Nacional de Córdoba",
+		"file": "talks/2021 Seminario - (talk) Una lógica epistémica para el razonamiento estratégico.pdf"
 	}
 ]
-
-<div class="square">
-				<h2>Other talks</h2>
-				<p>
-					<ul>
-					  <li><em></em>. . <a href="">[link]</a> <a href="">[talk]</a></li>
-					</ul>
-					<ul>
-					  <li><em></em>. . <a href="">[link]</a> <a href="">[talk]</a></li>
-					</ul>
-					<ul>
-					  <li><em></em>. . <a href="">[talk]</a></li>
-					</ul>
-				</p>
-			</div>
