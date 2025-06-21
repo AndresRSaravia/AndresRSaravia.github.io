@@ -38,6 +38,7 @@ async function renderTalks() {
 							<li>(${talk.year}) <em>${talk.title}</em>.
 							${talk.link ? `<a href="${talk.link}">[link]</a>` : ""}
 							${talk.file ? `<a href="${talk.file}">[talk]</a>` : ""}
+							${talk.detail ? `<a href="${talk.detail}">[detail]</a>` : ""}
 							<ul>
 								<li>${talk.place}.</li>
 							</ul>
@@ -46,6 +47,19 @@ async function renderTalks() {
 	})
 }
 
+async function renderActivityHistory() {
+	let activityHistoryContainer = document.getElementById("activity-history")
+	let activityHistory = await getJSON("activity-history.json")
+	activityHistory.forEach(activity => {
+		const card = document.createElement("div")
+		card.innerHTML = `<ul>
+							<li>[${activity.language}] (${activity.years}) ${activity.activity}.
+						</ul>`
+		activityHistoryContainer.appendChild(card)
+	})
+}
+
 
 renderPublications()
 renderTalks()
+renderActivityHistory()
