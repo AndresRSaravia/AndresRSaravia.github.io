@@ -1,45 +1,60 @@
 [
 	{
-		"title": "How Easy it is to Know How: An Upper Bound for the Satisfiability Problem",
-		"authors": ["Carlos Areces", "Valentín Cassano", "Pablo F. Castro", "Raul Fervari", "Andrés R. Saravia"],
-		"place": "JELIA 2023"
+		"year": "2025",
+		"title": "Epistemic Logics based on abilities / Lógicas epistémicas basadas en habilidades",
+		"authors": ["Andrés R. Saravia"],
+		"place": "PhD thesis in Computer Science / Tesis de Doctorado en Ciencias de la Computación, FaMAF, Universidad Nacional de Córdoba, 2024",
+		"link": "https://rdu.unc.edu.ar/items/930b6d90-bb18-4e20-8893-92887002252f"
 	},
 	{
+		"year": "2023-2025",
 		"title": "Uncertainty-Based Knowing How Logic",
 		"authors": ["Carlos Areces", "Raul Fervari", "Andrés R. Saravia", "Fernando R. Velázquez-Quesada"],
-		"place": "JLC 2023"
+		"place": "Journal of Logic and Computation (JLC), volume 35, issue 1, 2025, pages 1–35, 2025",
+		"link": "https://doi.org/10.1093/logcom/exad056"
 	},
 	{
+		"year": "2023",
+		"title": "How Easy it is to Know How: An Upper Bound for the Satisfiability Problem",
+		"authors": ["Carlos Areces", "Valentín Cassano", "Pablo F. Castro", "Raul Fervari", "Andrés R. Saravia"],
+		"place": "Proceedings of the 18th European Conference on Logics in Artificial Intelligence (JELIA 2023), LNCS 14281, pages 405-419, Springer 2023",
+		"link": "https://doi.org/10.1007/978-3-031-43619-2_28"
+	},
+	{
+		"year": "2023",
 		"title": "A Deontic Logic of Knowingly Complying",
 		"authors": ["Carlos Areces", "Valentín Cassano", "Pablo F. Castro", "Raul Fervari", "Andrés R. Saravia"],
-		"place": "AAMAS '23: Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems, pages 364–372, 2023",
+		"place": "Proceedings of the 2023 International Conference on Autonomous Agents and Multiagent Systems (AAMAS '23), pages 364–372, ACM 2023",
 		"link": "https://dl.acm.org/doi/proceedings/10.5555/3545946",
 		"mirror": "works/2023 AAMAS - A Deontic Logic of Knowingly Complying.pdf",
 		"talk": "talks/2023 AAMAS - (talk) A Deontic Logic of Knowingly Complying.pdf",
 		"poster": "posters/2023 AAMAS - (poster) A Deontic Logic of Knowingly Complying.pdf"
 	},
 	{
+		"year": "2022-2023",
 		"title": "First Steps in Updating Knowing How",
 		"authors": ["Carlos Areces", "Raul Fervari", "Andrés R. Saravia", "Fernando R. Velázquez-Quesada"],
-		"place": "Dynamic Logic. New Trends and Applications, pages 1-16, 2022",
-		"link": "https://link.springer.com/book/10.1007/978-3-031-26622-5",
+		"place": "Dynamic Logic. New Trends and Applications, LNCS 13780, pages 1-16, 2023 (presented in DaLí 2022)",
+		"link": "https://doi.org/10.1007/978-3-031-26622-5_1",
 		"mirror": "works/2022 DaLí - First Steps in Updating Knowing How.pdf",
 		"talk": "talks/2022 DaLí - (talk) First Steps in Updating Knowing How.pdf",
 		"poster": ""
 	},
 	{
+		"year": "2021",
 		"title": "Uncertainty-Based Semantics for Multi-Agent Knowing How Logics",
 		"authors": ["Carlos Areces", "Raul Fervari", "Andrés R. Saravia", "Fernando R. Velázquez-Quesada"],
-		"place": "Proceedings of the Eighteenth Conference on Theoretical Aspects of Rationality and Knowledge, TARK XVIII, pages 23-38, 2021",
+		"place": "Proceedings of the Eighteenth Conference on Theoretical Aspects of Rationality and Knowledge (TARK XVIII), EPTCS 335, pages 23-37, 2021",
 		"link": "http://eptcs.web.cse.unsw.edu.au/content.cgi?TARK2021",
 		"mirror": "works/2021 TARK - Uncertainty-Based Semantics for Multi-Agent Knowing How Logics.pdf",
 		"talk": "talks/2021 TARK - (talk) Uncertainty-Based Semantics for Multi-Agent Knowing How Logics.pdf",
 		"poster": ""
 	},
 	{
+		"year": "2020",
 		"title": "Tableau calculi for elementary formulae in Separation Logics / Cálculo de tableaux para fórmulas elementales en lógicas de separación",
 		"authors": ["Andrés R. Saravia"],
-		"place": "Master Computer Science thesis / Tesis de Licenciatura en Ciencias de la Computación, FaMAF-UNC, 2020",
+		"place": "Master's thesis in Computer Science / Tesis de Licenciatura en Ciencias de la Computación, FaMAF, Universidad Nacional de Córdoba, 2020",
 		"link": "https://rdu.unc.edu.ar/handle/11086/15302",
 		"mirror": "works/2020 UNC - Cálculo de tableaux para fórmulas elementales en lógicas de separación.pdf",
 		"talk": "talks/2020 UNC - (talk) Cálculo de tableaux para fórmulas elementales en lógicas de separación.pdf",
