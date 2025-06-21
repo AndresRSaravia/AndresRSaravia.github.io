@@ -1,6 +1,13 @@
 [
 	{
-		"year": "2025",
+		"year": "2023-2025",
+		"title": "Uncertainty-Based Knowing How Logic",
+		"authors": ["Carlos Areces", "Raul Fervari", "Andrés R. Saravia", "Fernando R. Velázquez-Quesada"],
+		"place": "Journal of Logic and Computation (JLC), volume 35, issue 1, 2025, pages 1–35, 2025",
+		"link": "https://doi.org/10.1093/logcom/exad056"
+	},
+	{
+		"year": "2024",
 		"title": "Epistemic Logics based on abilities / Lógicas epistémicas basadas en habilidades",
 		"authors": ["Andrés R. Saravia"],
 		"place": "PhD thesis in Computer Science / Tesis de Doctorado en Ciencias de la Computación, FaMAF, Universidad Nacional de Córdoba, Argentina, 2024",
@@ -8,13 +15,6 @@
 		"mirror": "works/papers/2024 UNC - Lógicas epistémicas basadas en habilidades.pdf",
 		"talk": "works/talks/2024 UNC - Lógicas epistémicas basadas en habilidades.pdf",
 		"talkEN": "works/talks/2024 Saarland University - Epistemic logics based on abilities.pdf"
-	},
-	{
-		"year": "2023-2025",
-		"title": "Uncertainty-Based Knowing How Logic",
-		"authors": ["Carlos Areces", "Raul Fervari", "Andrés R. Saravia", "Fernando R. Velázquez-Quesada"],
-		"place": "Journal of Logic and Computation (JLC), volume 35, issue 1, 2025, pages 1–35, 2025",
-		"link": "https://doi.org/10.1093/logcom/exad056"
 	},
 	{
 		"year": "2023",
