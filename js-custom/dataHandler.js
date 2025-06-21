@@ -18,6 +18,7 @@ async function renderPublications() {
 							${publication.link ? `<a href="${publication.link}">[link]</a>` : ""}
 							${publication.mirror ? `<a href="${publication.mirror}">[mirror]</a>` : ""}
 							${publication.talk ? `<a href="${publication.talk}">[talk]</a>` : ""}
+							${publication.talkEN ? `<a href="${publication.talkEN}">[talk english]</a>` : ""}
 							${publication.poster ? `<a href="${publication.poster}">[poster]</a>` : ""}</li>
 							<ul>
 								<li>${publication.place}.</li>

@@ -1,5 +1,11 @@
 [
 	{
+		"year": "2024",
+		"title": "Epistemic logics based on abilities",
+		"place": "Saarland University",
+		"file": "works/talks/2024 Saarland University - Epistemic logics based on abilities.pdf"
+	},
+	{
 		"year": "2023",
 		"title": "Epistemic Logics with Strategies",
 		"place": "University of Bergen",
@@ -10,19 +16,19 @@
 		"title": "Epistemic Logics with Strategies",
 		"place": "São Paulo School of Advanced Science on Contemporary Logic, Rationality, and Information",
 		"link": "https://www.cle.unicamp.br/splogic",
-		"file": "talks/2022 SPLogIC - (talk) Epistemic Logics with Strategies.pdf"
+		"file": "works/talks/2022 SPLogIC - Epistemic Logics with Strategies.pdf"
 	},
 	{
 		"year": "2022",
 		"title": "Strategically knowing: a new framework of modal logics",
 		"place": "Noveno Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software",
 		"link": "https://sites.google.com/view/facas2022/",
-		"file": "talks/2022 FACAS - (talk) Strategically knowing a new framework of modal logics.pdf"
+		"file": "works/talks/2022 FACAS - Strategically knowing a new framework of modal logics.pdf"
 	},
 	{
 		"year": "2021",
 		"title": "Una lógica epistémica para el razonamiento estratégico",
 		"place": "Seminario informal, FaMAF, Universidad Nacional de Córdoba",
-		"file": "talks/2021 Seminario - (talk) Una lógica epistémica para el razonamiento estratégico.pdf"
+		"file": "works/talks/2021 Seminario - Una lógica epistémica para el razonamiento estratégico.pdf"
 	}
 ]
