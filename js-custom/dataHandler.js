@@ -37,7 +37,8 @@ async function renderTalks() {
 		card.innerHTML = `<ul>
 							<li>[${talk.language}] (${talk.year}) <em>${talk.title}</em>.
 							${talk.link ? `<a href="${talk.link}">[link]</a>` : ""}
-							${talk.file ? `<a href="${talk.file}">[talk]</a>` : ""}
+							${talk.talk ? `<a href="${talk.talk}">[talk]</a>` : ""}
+							${talk.poster ? `<a href="${talk.poster}">[poster]</a>` : ""}
 							${talk.detail ? `<a href="${talk.detail}">[detail]</a>` : ""}
 							<ul>
 								<li>${talk.place}.</li>

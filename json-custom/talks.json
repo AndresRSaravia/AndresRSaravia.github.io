@@ -1,10 +1,25 @@
 [
 	{
+		"year": "2025",
+		"language": "ES",
+		"title": "Simulaciones de Monte Carlo de adsorcion de hidrógeno sobre superficies de níquel",
+		"place": "XXII Congreso Regional de Física Estadística y Aplicaciones a la Materia Condensada (TREFEMAC XXII), Centro Cultural H. M. Borelli, Salta, Argentina",
+		"poster": "works/posters/2025 TREFEMAC - Simulaciones de Monte Carlo de adsorcion de hidrógeno sobre superficies de níquel.pdf",
+		"detail": "works/papers/2025 TREFEMAC - Simulaciones de Monte Carlo de adsorcion de hidrógeno sobre superficies de níquel (detail).pdf"
+	},
+	{
+		"year": "2025",
+		"language": "ES",
+		"title": "Optimización de recorrido de rallies agrícolas para la Bolsa de Cereales de Córdoba",
+		"place": "VI Taller de Matemática en la Industria (TAMI VI) organizado por Luis Biedma, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
+		"talk": "works/talks/2025 TAMI - Optimización de recorrido de rallies agrícolas para la Bolsa de Cereales de Córdoba.pdf"
+	},
+	{
 		"year": "2024",
 		"language": "EN",
 		"title": "A Novel Way of Updating Knowing How",
 		"place": "Aveiro University, Aveiro, Portugal",
-		"file": "works/talks/2024 ReacTS - A Novel Way of Updating Knowing How.pdf",
+		"talk": "works/talks/2024 ReacTS - A Novel Way of Updating Knowing How.pdf",
 		"detail": "works/papers/2024 ReacTS - A Novel Way of Updating Knowing How (detail).pdf"
 	},
 	{
@@ -12,21 +27,21 @@
 		"language": "EN",
 		"title": "Epistemic logics based on abilities",
 		"place": "Saarland University, Saarbrücken, Germany",
-		"file": "works/talks/2024 Saarland University - Epistemic logics based on abilities.pdf"
+		"talk": "works/talks/2024 Saarland University - Epistemic logics based on abilities.pdf"
 	},
 	{
 		"year": "2024",
 		"language": "ES",
 		"title": "Fermat, Weber y los problemas de localización",
-		"place": "Seminario de Alumnes 2024, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
-		"file": "works/talks/2024 UNC - Fermat, Weber y los problemas de localización.pdf"
+		"place": "Seminario de Alumnes 2024 organizado por Luis Biedma, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
+		"talk": "works/talks/2024 UNC - Fermat, Weber y los problemas de localización.pdf"
 	},
 	{
 		"year": "2023",
 		"language": "ES",
 		"title": "Una lógica deóntica de 'cumplir conscientemente'",
 		"place": "Seminario informal para estudiantes de doctorado, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
-		"file": "works/talks/2023 UNC - Una lógica deóntica de 'cumplir conscientemente' (seminario).pdf"
+		"talk": "works/talks/2023 UNC - Una lógica deóntica de 'cumplir conscientemente' (seminario).pdf"
 	},
 	{
 		"year": "2023",
@@ -41,7 +56,7 @@
 		"title": "Epistemic Logics with Strategies",
 		"place": "São Paulo School of Advanced Science on Contemporary Logic, Rationality, and Information, State University of Campinas, Campinas, Brazil",
 		"link": "https://www.cle.unicamp.br/splogic",
-		"file": "works/talks/2022 SPLogIC - Epistemic Logics with Strategies.pdf"
+		"talk": "works/talks/2022 SPLogIC - Epistemic Logics with Strategies.pdf"
 	},
 	{
 		"year": "2022",
@@ -49,13 +64,13 @@
 		"title": "Strategically knowing: a new framework of modal logics",
 		"place": "Noveno Taller Argentino de Fundamentos para el Análisis y la Construcción Automática de Software, La Falda, Córdoba, Argentina",
 		"link": "https://sites.google.com/view/facas2022/",
-		"file": "works/talks/2022 FACAS - Strategically knowing a new framework of modal logics.pdf"
+		"talk": "works/talks/2022 FACAS - Strategically knowing a new framework of modal logics.pdf"
 	},
 	{
 		"year": "2021",
 		"language": "ES",
 		"title": "Una lógica epistémica para el razonamiento estratégico",
 		"place": "Seminario para estudiantes de doctorado, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
-		"file": "works/talks/2021 UNC - Una lógica epistémica para el razonamiento estratégico (seminario).pdf"
+		"talk": "works/talks/2021 UNC - Una lógica epistémica para el razonamiento estratégico (seminario).pdf"
 	}
 ]
