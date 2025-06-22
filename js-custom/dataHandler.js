@@ -39,7 +39,7 @@ async function renderTalks() {
 							${talk.link ? `<a href="${talk.link}">[link]</a>` : ""}
 							${talk.talk ? `<a href="${talk.talk}">[talk]</a>` : ""}
 							${talk.poster ? `<a href="${talk.poster}">[poster]</a>` : ""}
-							${talk.detail ? `<a href="${talk.detail}">[detail]</a>` : ""}
+							${talk.detail ? `<a href="${talk.detail}">[detail]</a>` : ""}</li>
 							<ul>
 								<li>${talk.place}.</li>
 							</ul>
@@ -48,13 +48,30 @@ async function renderTalks() {
 	})
 }
 
+async function renderRepositories() {
+	let repositoriesContainer = document.getElementById("repositories")
+	let repositories = await getJSON("repositories.json")
+	repositories.forEach(repository => {
+		const card = document.createElement("div")
+		card.innerHTML = `<ul>
+							<li>${repository.year} <em>${repository.title}</em>.
+							${repository.link ? `<a href="${repository.link}">[link]</a>` : ""}</li>
+							<ul>
+								<li>${repository.description}.</li>
+							</ul>
+						</ul>`
+		repositoriesContainer.appendChild(card)
+	})
+}
+
+
 async function renderActivityHistory() {
 	let activityHistoryContainer = document.getElementById("activity-history")
 	let activityHistory = await getJSON("activity-history.json")
 	activityHistory.forEach(activity => {
 		const card = document.createElement("div")
 		card.innerHTML = `<ul>
-							<li>[${activity.language}] (${activity.years}) ${activity.activity}.
+							<li>[${activity.language}] (${activity.years}) ${activity.activity}</li>
 						</ul>`
 		activityHistoryContainer.appendChild(card)
 	})
@@ -63,4 +80,5 @@ async function renderActivityHistory() {
 
 renderPublications()
 renderTalks()
+renderRepositories()
 renderActivityHistory()

@@ -1,32 +1,37 @@
 [
 	{
-		"title": "Desarrollo Web - Coderhouse",
+		"year": "2025",
+		"title": "Web development - Coderhouse",
 		"description": "Código de curso de Desarrollo Web",
-		"link": "https://github.com/AndresRSaravia/coderhouse-desarrollo-web",
+		"link": "https://github.com/AndresRSaravia/coderhouse-desarrollo-web"
 	},
 	{
+		"year": "2025",
 		"title": "Javascript - Coderhouse",
 		"description": "Código de curso de Javascript",
-		"link": "https://github.com/AndresRSaravia/coderhouse-javascript",
+		"link": "https://github.com/AndresRSaravia/coderhouse-javascript"
 	},
 	{
+		"year": "2025",
 		"title": "ReactJS - Coderhouse",
 		"description": "Código de curso de ReactJS",
-		"link": "https://github.com/AndresRSaravia/coderhouse-reactjs",
+		"link": "https://github.com/AndresRSaravia/coderhouse-reactjs"
 	},
 	{
+		"year": "2025",
 		"title": "Backend I - Coderhouse",
 		"description": "Código de curso de Backend I",
-		"link": "https://github.com/AndresRSaravia/coderhouse-backend-i",
+		"link": "https://github.com/AndresRSaravia/coderhouse-backend-i"
 	},
 	{
+		"year": "2025",
 		"title": "Backend II - Coderhouse",
-		"description": "Código de curso de Backend II",
-		"link": "https://github.com/AndresRSaravia/coderhouse-backend-ii",
+		"link": "https://github.com/AndresRSaravia/coderhouse-backend-ii"
 	},
 	{
+		"year": "2025",
 		"title": "Backend III - Coderhouse",
 		"description": "Código de curso de Backend III",
-		"link": "",
-	},
+		"link": ""
+	}
 ]
