@@ -32,6 +32,12 @@
 		"year": "2025",
 		"title": "Backend III - Coderhouse",
 		"description": "Código de curso de Backend III",
-		"link": ""
+		"link": "https://github.com/AndresRSaravia/coderhouse-backend-iii"
+	},
+	{
+		"year": "2017",
+		"title": "Graph coloring",
+		"description": "Discrete Mathematics II project about coloring graphs",
+		"link": "https://github.com/AndresRSaravia/graph-coloring"
 	}
 ]
