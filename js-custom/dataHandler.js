@@ -14,7 +14,7 @@ async function renderPublications() {
 	publications.forEach(publication => {
 		const card = document.createElement("div")
 		card.innerHTML = `<ul>
-							<li>(${publication.year}) <em>${publication.title}</em>.
+							<li>(${publication.year}) <em>${publication.title}</em>
 							${publication.link ? `<a href="${publication.link}">[link]</a>` : ""}
 							${publication.mirror ? `<a href="${publication.mirror}">[mirror]</a>` : ""}
 							${publication.talk ? `<a href="${publication.talk}">[talk]</a>` : ""}
@@ -35,7 +35,7 @@ async function renderTalks() {
 	talks.forEach(talk => {
 		const card = document.createElement("div")
 		card.innerHTML = `<ul>
-							<li>[${talk.language}] (${talk.year}) <em>${talk.title}</em>.
+							<li>[${talk.language}] (${talk.year}) <em>${talk.title}</em>
 							${talk.link ? `<a href="${talk.link}">[link]</a>` : ""}
 							${talk.talk ? `<a href="${talk.talk}">[talk]</a>` : ""}
 							${talk.poster ? `<a href="${talk.poster}">[poster]</a>` : ""}
@@ -54,7 +54,7 @@ async function renderRepositories() {
 	repositories.forEach(repository => {
 		const card = document.createElement("div")
 		card.innerHTML = `<ul>
-							<li>${repository.year} <em>${repository.title}</em>.
+							<li>${repository.year} <em>${repository.title}</em>
 							${repository.link ? `<a href="${repository.link}">[link]</a>` : ""}</li>
 							<ul>
 								<li>${repository.description}.</li>
