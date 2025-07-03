@@ -64,7 +64,6 @@ async function renderRepositories() {
 	})
 }
 
-
 async function renderActivityHistory() {
 	let activityHistoryContainer = document.getElementById("activity-history")
 	let activityHistory = await getJSON("activity-history.json")
@@ -76,7 +75,6 @@ async function renderActivityHistory() {
 		activityHistoryContainer.appendChild(card)
 	})
 }
-
 
 renderPublications()
 renderTalks()

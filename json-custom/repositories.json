@@ -1,6 +1,12 @@
 [
 	{
 		"year": "2025",
+		"title": "Monte Carlo Simulations of the adsorption of Hydrogen atoms over Nickel plates",
+		"description": "Work for my Master's degree thesis in Applied Mathematics in which we simulate the adsorption of hydrogen atoms over nickel plates / surfaces with the goal of study clean energy storage alternatives. Languages: C (simulations y data generation) and Python (visualization)",
+		"link": "https://github.com/AndresRSaravia/hydrogen-simulations"
+	},
+	{
+		"year": "2025",
 		"title": "Backend III - Coderhouse",
 		"description": "Código de curso de Backend III",
 		"link": "https://github.com/AndresRSaravia/coderhouse-backend-iii"
