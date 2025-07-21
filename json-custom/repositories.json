@@ -1,6 +1,12 @@
 [
 	{
 		"year": "2025",
+		"title": "Data Science on Weather Datasets",
+		"description": "Practice on the reading, curation, analysis and proposal of prediction models (logistic regression, decision trees and random forest) to predict rainfall given a weather dataset. Libraries: sklearn, seaborn, pandas, numpy y matplotlib.",
+		"link": "https://github.com/AndresRSaravia/data-science-practice"
+	},
+	{
+		"year": "2025",
 		"title": "Monte Carlo Simulations of the adsorption of Hydrogen atoms over Nickel plates",
 		"description": "Work for my Master's degree thesis in Applied Mathematics in which we simulate the adsorption of hydrogen atoms over nickel plates / surfaces with the goal of study clean energy storage alternatives. Languages: C (simulations y data generation) and Python (visualization)",
 		"link": "https://github.com/AndresRSaravia/hydrogen-simulations"
