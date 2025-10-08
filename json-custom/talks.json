@@ -2,6 +2,13 @@
 	{
 		"year": "2025",
 		"language": "ES",
+		"title": "Simulaciones de Monte Carlo aplicadas al estudio de hidrógeno verde",
+		"place": "Seminario de Matemática Aplicada 2025 organizado por Luis Biedma y Claudio Armas, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
+		"talk": "works/talks/2025 UNC - Simulaciones de Monte Carlo aplicadas al estudio de hidrógeno verde.pdf"
+	},
+	{
+		"year": "2025",
+		"language": "ES",
 		"title": "Simulaciones de Monte Carlo de adsorcion de hidrógeno sobre superficies de níquel",
 		"place": "Reunión Regional Anual de Física, Tecnología y Aplicaciones 2025 (RRAFTA 25), FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
 		"poster": "works/posters/2025 TREFEMAC - Simulaciones de Monte Carlo de adsorcion de hidrógeno sobre superficies de níquel.pdf",
