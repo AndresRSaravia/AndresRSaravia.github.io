@@ -2,6 +2,11 @@
 	{
 		"years": "2025",
 		"language": "ES",
+		"activity": "Presentación de trabajo en el Seminario de Matemática Aplicada organizado por Luis Biedma y Claudio Armas, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina"
+	},
+	{
+		"years": "2025",
+		"language": "ES",
 		"activity": "Presentación de trabajo en la Reunión Regional Anual de Física, Tecnología y Aplicaciones 2025 (RRAFTA 25)"
 	},
 	{
@@ -17,7 +22,7 @@
 	{
 		"years": "2025",
 		"language": "ES",
-		"activity": "Participación en el VI Taller de Matemática en la Industria (TAMI VI), FaMAF, Universidad Nacional de Córdoba"
+		"activity": "Participación en el VI Taller de Matemática en la Industria (TAMI VI), FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina"
 	},
 	{
 		"years": "2025",
@@ -35,9 +40,14 @@
 		"activity": "Course 'Blender 3D' at Coderhouse"
 	},
 	{
+		"years": "2024",
+		"language": "ES",
+		"activity": "Presentación de trabajo en el Seminario de Alumnes organizado por Luis Biedma, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina"
+	},
+	{
 		"years": "2020-2024",
 		"language": "EN/ES",
-		"activity": "PhD degree in Computer Science / Doctorado en Ciencias de la Computación, FaMAF, Universidad Nacional de Córdoba (Dr. Raúl Fervari)"
+		"activity": "PhD degree in Computer Science / Doctorado en Ciencias de la Computación, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina (Dr. Raúl Fervari)"
 	},
 	{
 		"years": "2024",
@@ -72,12 +82,12 @@
 	{
 		"years": "2020-2022",
 		"language": "EN/ES",
-		"activity": "University Technician in Applied Mathematics / Técnico Universitario en Matemática Aplicada, FaMAF, Universidad Nacional de Córdoba (GPA: 9.44/10)"
+		"activity": "University Technician in Applied Mathematics / Técnico Universitario en Matemática Aplicada, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina (GPA: 9.44/10)"
 	},
 	{
 		"years": "2022",
 		"language": "ES",
-		"activity": "Trabajo como Profesor Ayudante A en la materia Algoritmos y Estructuras de Datos I, FaMAF, Universidad Nacional de Córdoba"
+		"activity": "Trabajo como Profesor Ayudante A en la materia Algoritmos y Estructuras de Datos I, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina"
 	},
 	{
 		"years": "2022",
@@ -112,7 +122,7 @@
 	{
 		"years": "2021",
 		"language": "ES",
-		"activity": "Curso 'Teoría de Modelos' dictado por los doctores Miguel A. C. Campercholi (UNC, CONICET) y Diego N. Castaño (UNS, CONICET), Universidad Nacional de Córdoba (8/10)"
+		"activity": "Curso 'Teoría de Modelos' dictado por los doctores Miguel A. C. Campercholi (UNC, CONICET) y Diego N. Castaño (UNS, CONICET), Universidad Nacional de Córdoba, Córdoba, Argentina (8/10)"
 	},
 	{
 		"years": "2021",
@@ -148,7 +158,7 @@
 	{
 		"years": "2015-2020",
 		"language": "EN/ES",
-		"activity": "Master's degree in Computer Science / Licenciatura en Ciencias de la Computación, FaMAF, Universidad Nacional de Córdoba (Dr. Raúl Fervari, GPA: 9.67/10)"
+		"activity": "Master's degree in Computer Science / Licenciatura en Ciencias de la Computación, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina (Dr. Raúl Fervari, GPA: 9.67/10)"
 	},
 	{
 		"years": "2019",
@@ -158,60 +168,60 @@
 	{
 		"years": "2019",
 		"language": "ES",
-		"activity": "Trabajo como Ayudante Alumno en las materias de Algoritmos y Estructuras de Datos II e Introducción a la Lógica y a la Computación en FaMAF, Universidad Nacional de Córdoba",
+		"activity": "Trabajo como Ayudante Alumno en las materias de Algoritmos y Estructuras de Datos II e Introducción a la Lógica y a la Computación en FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
 		"link": ["https://digesto.unc.edu.ar/handle/123456789/127439","https://digesto.unc.edu.ar/handle/123456789/127614"]
 	},
 	{
 		"years": "2019",
 		"language": "ES",
-		"activity": "Curso 'Lógicas Dinámicas' dictado por los doctores Carlos Areces (FaMAF-UNC, CONICET), Raul Fervari (FaMAF-UNC, CONICET) y Fernando R. Velázquez Quesada (ILLC, Netherlands), FaMAF, Universidad Nacional de Córdoba (10/10)"
+		"activity": "Curso 'Lógicas Dinámicas' dictado por los doctores Carlos Areces (FaMAF-UNC, CONICET), Raul Fervari (FaMAF-UNC, CONICET) y Fernando R. Velázquez Quesada (ILLC, Netherlands), FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina (10/10)"
 	},
 	{
 		"years": "2019",
 		"language": "ES",
-		"activity": "Selección como suplente de 1ra escolta en la bandera nacional, FaMAF, Universidad Nacional de Córdoba",
+		"activity": "Selección como suplente de 1ra escolta en la bandera nacional, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
 		"link": "https://digesto.unc.edu.ar/handle/123456789/121853"
 	},
 	{
 		"years": "2018",
 		"language": "ES",
-		"activity": "Curso 'Modelos Matemáticos en Finanzas Cuantitativas' dictado por la Dra. Patricia Kisbye y el Profesor Pedro Pury, FaMAF, Universidad Nacional de Córdoba (10/10)"
+		"activity": "Curso 'Modelos Matemáticos en Finanzas Cuantitativas' dictado por la Dra. Patricia Kisbye y el Profesor Pedro Pury, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina (10/10)"
 	},
 	{
 		"years": "2018",
 		"language": "ES",
-		"activity": "Curso 'Introducción a las Técnicas Estadísticas y Computacionales para el Procesamiento de Imágenes de Teledetección' dictado por el Ingeniero en Sistemas Sergio Masuelli (CONAE), FaMAF, Universidad Nacional de Córdoba (10/10)"
+		"activity": "Curso 'Introducción a las Técnicas Estadísticas y Computacionales para el Procesamiento de Imágenes de Teledetección' dictado por el Ingeniero en Sistemas Sergio Masuelli (CONAE), FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina (10/10)"
 	},
 	{
 		"years": "2018",
 		"language": "ES",
-		"activity": "Selección como suplente de 2da escolta en la bandera nacional, FaMAF, Universidad Nacional de Córdoba",
+		"activity": "Selección como suplente de 2da escolta en la bandera nacional, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina",
 		"link": "https://digesto.unc.edu.ar/handle/123456789/120965"
 	},
 	{
 		"years": "2015-2017",
 		"language": "EN/ES",
-		"activity": "Undergraduate degree in Computer Analyst / Analista en Computación, FaMAF, Universidad Nacional de Córdoba (GPA: 9.61/10)"
+		"activity": "Undergraduate degree in Computer Analyst / Analista en Computación, FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina (GPA: 9.61/10)"
 	},
 	{
 		"years": "2017",
 		"language": "ES",
-		"activity": "Asistencia a la Escuela de Verano de Ciencias Informáticas RIO 2017, Universidad Nacional de Río Cuarto, Argentina"
+		"activity": "Asistencia a la Escuela de Verano de Ciencias Informáticas RIO 2017, Universidad Nacional de Río Cuarto, Córdoba, Argentina"
 	},
 	{
 		"years": "2017",
 		"language": "ES",
-		"activity": "Curso 'Criptografía' dictado por el Dr. Daniel Penazzi (FaMAF-UNC), Universidad Nacional de Río Cuarto, Argentina (10/10)"
+		"activity": "Curso 'Criptografía' dictado por el Dr. Daniel Penazzi (FaMAF-UNC), Universidad Nacional de Río Cuarto, Córdoba, Argentina (10/10)"
 	},
 	{
 		"years": "2017",
 		"language": "ES",
-		"activity": "Curso 'Principios de Cyberseguridad para entornos corporativos' dictado por INTEL Corporation, Universidad Nacional de Río Cuarto, Argentina (9/10)"
+		"activity": "Curso 'Principios de Cyberseguridad para entornos corporativos' dictado por INTEL Corporation, Universidad Nacional de Río Cuarto, Córdoba, Argentina (9/10)"
 	},
 	{
 		"years": "2017",
 		"language": "ES",
-		"activity": "Asistencia al seminario 'Aprendiendo a programar en la escuela: Un análisis desde la política educativa' de la Dr. Ma. Cecilia Martínez (Inst. de Humanidades CONICET, FFyH, Universidad Nacional de Córdoba)"
+		"activity": "Asistencia al seminario 'Aprendiendo a programar en la escuela: Un análisis desde la política educativa' de la Dr. Ma. Cecilia Martínez (Inst. de Humanidades CONICET, FFyH, Universidad Nacional de Córdoba, Córdoba, Argentina)"
 	},
 	{
 		"years": "2017",
@@ -226,7 +236,7 @@
 	{
 		"years": "2017",
 		"language": "ES",
-		"activity": "Participante en la comisión de clases de consulta organizada por el centro de estudiantes de FaMAFm Universidad Nacional de Córdoba"
+		"activity": "Participante en la comisión de clases de consulta organizada por el centro de estudiantes de FaMAF, Universidad Nacional de Córdoba, Córdoba, Argentina"
 	},
 	{
 		"years": "2012-2018",
